@@ -1,3 +1,6 @@
+Resources/201908-citibike-tripdata.csv
+Resources/201908-citibike-tripdata_Challenge-D1.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
