@@ -4,6 +4,7 @@ Module 14
 ## Project Overview
 This assignment focused on the Citibike use in NYC and the purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 
+
 ## Resources
 Data Source: 201908-citibike-tripdata.csv
 
