@@ -34,11 +34,29 @@ link to story
 https://public.tableau.com/app/profile/kathia.flores/viz/CitiBike_Challege-D2/NCYStory
 
 #### Report
-| Story | Analysis |
+| Viz | Analysis |
+| --- | --- |
+| <img src="/Resources/img9.png"> | qwery |
+| <img src="/Resources/img14.png"> | qwery | 
+
+| Viz | Analysis |
+| --- | --- |
+| <img src="/Resources/img12.png"> | <img src="/Resources/img13.png"> | 
+
+## Summary
+
+| Viz | Analysis |
 | --- | --- |
 | <img src="/Resources/img8.png"> | In these graph it can be seen that the majority of users are men and have a subscription service. Perhaps it would be convenient to apply a survey and see if women consider that riding a bike is not good in terms of safety or if it is because sometimes they wear clothes that are not suitable for riding a bike. | 
-| <img src="/Resources/img9.png"> | qwery |
-| <img src="/Resources/img10.png"> | qwery | 
-| <img src="/Resources/img11.png"> | qwery |
-| <img src="/Resources/img12.png"> | qwery |
 
+| Viz | Analysis |
+| --- | --- |
+| <img src="/Resources/img10.png"> | <img src="/Resources/img11.png"> | 
+
+qwerty
+
+| Viz | Analysis |
+| --- | --- |
+| <img src="/Resources/img15.png"> | <img src="/Resources/img16.png"> | 
+
+qwerty
