@@ -32,6 +32,12 @@ Describe the key outcomes of the NYC Citibike analysis you did in the module and
 link to story
 https://public.tableau.com/app/profile/kathia.flores/viz/CitiBike_Challege-D2/NCYStory
 
-#### Analysis
-<img src="/Resources/img8.png" width="50%" height="50%">
+#### Report
+| Story | Analysis |
+| --- | --- |
+| <img src="/Resources/img8.png"> | qwery | 
+| <img src="/Resources/img9.png"> | qwery |
+| <img src="/Resources/img10.png"> | qwery | 
+| <img src="/Resources/img11.png"> | qwery |
+| <img src="/Resources/img12.png"> | qwery |
 
