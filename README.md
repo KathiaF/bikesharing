@@ -2,6 +2,7 @@
 Module 14
 
 ## Project Overview
+This assignment focused on the Citibike use in NYC and the purpose of this analysis is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
 
 ## Resources
 Data Source: 201908-citibike-tripdata.csv
@@ -30,3 +31,9 @@ Software: Tableau Public, Python 3.9.0, Anaconda Navigator 2.1.1, Jupyter Notebo
 
 -  User Trips by Gender by Weekday Viz
 <img src="/Resources/img7.png" width="50%" height="50%">
+
+### Deliverable 3: Create a Story and Report for the Final Presentation
+
+link to story
+https://public.tableau.com/app/profile/kathia.flores/viz/CitiBike_Challege-D2/NCYStory
+
