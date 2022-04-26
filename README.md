@@ -75,4 +75,4 @@ As can be seen in the graph above, the CitiBikes service is used mostly by young
 
 - Clients who do not have a subscription to the bicycle rental service use the bikes mostly on weekends and in tourist places, for which it can be concluded that they are tourists.
 
-- It could be a good business opportunity, since there is no similar service in Des Moines, however, I would recommend applying surveys to women to see what they think of having a bike sharing service. I would also review the tourist areas of the city and the forms of transportation used by tourists.
+- It could be a good business opportunity, since there is no similar service in Des Moines, however, I would recommend the application surveys to women to see what they think of having a bike sharing service. I would also review the top rated places of the city and the transportation services used by tourists.
