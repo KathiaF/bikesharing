@@ -42,22 +42,21 @@ https://public.tableau.com/app/profile/kathia.flores/viz/CitiBike_Challege-D2/NC
 | --- | --- |
 | <img src="/Resources/img12.png"> | <img src="/Resources/img13.png"> | 
 
-These graphs break down bike usage by day and hour. The darker colors represent higher usage and the lighter colors lower usage. It can be seen that the hours that bikes are used the most are when people is traveling to work at 8am and from work at 5 pm. A filter by type of user was added, which allows us to observe that subscribers use bikes mostly on workdays, while customers use bikes on weekends (perhaps because they are probably tourists). 
+These figures break down bike usage by day and hour. The darker colors represent higher usage and the lighter colors lower usage. It can be seen that the hours that bikes are used the most are when people is traveling to work/school at 8am and from work at 5 pm. A filter by type of user was added, which allows us to observe that subscribers use bikes mostly on workdays, while customers use bikes on weekends (perhaps because they are probably tourists). 
 
 
 | Viz | Analysis |
 | --- | --- |
-| <img src="/Resources/img14.png"> | This graph breaks down bike usage by gender, weekday and hour. The darker colors represent higher usage and the lighter colors lower usage. It can also be seen from this graph that bikes are mostly used by men, however, regardless of gender, subscribers use the CitiBike service possibly to get to and from work. | 
+| <img src="/Resources/img14.png"> | This graph breaks down bike usage by gender, weekday and hour. The darker colors represent higher usage and the lighter colors lower usage. It can also be seen from this graph that bikes are mostly used by men, however, regardless of gender, subscribers use the CitiBike service possibly to get to and from work/school. | 
 
-From these graphs it can be concluded that the best time to perform maintenance on bicycles is during the early hours of the morning (2am - 4am). 
+From these visualizations it can be concluded that the best time to perform maintenance on bicycles is during the early hours of the morning (2am - 4am). 
 
-| Viz | Analysis |
-| --- | --- |
-| <img src="/Resources/img12.png"> | <img src="/Resources/img13.png"> | 
 
 | Viz | Analysis |
 | --- | --- |
 | <img src="/Resources/img10.png"> | <img src="/Resources/img11.png"> | 
+
+A map of New York City is shown in these visualizations and shows us the top starting locations and the top ending locations. We added a filter to select the gender and type of user, and using these filters it can be concluded that the bicycles are used the most by men. It can be seen that customers (possibly tourists) use the CitiBike service mostly in Central Park and near the Hudson River while subscribers use it near the Empire State and Union Square, where there are several subway stations, which , supports the hypothesis that subscribers use it mostly to go to work or school and that explains the short periods of use of the bikes.
 
 qwerty
 
