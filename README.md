@@ -56,9 +56,7 @@ From these visualizations it can be concluded that the best time to perform main
 | --- | --- |
 | <img src="/Resources/img10.png"> | <img src="/Resources/img11.png"> | 
 
-A map of New York City is shown in these visualizations and shows us the top starting locations and the top ending locations. We added a filter to select the gender and type of user, and using these filters it can be concluded that the bicycles are used the most by men. It can be seen that customers (possibly tourists) use the CitiBike service mostly in Central Park and near the Hudson River while subscribers use it near the Empire State and Union Square, where there are several subway stations, which , supports the hypothesis that subscribers use it mostly to go to work or school and that explains the short periods of use of the bikes.
-
-qwerty
+A map of New York City is shown in these visualizations and shows us the top starting locations and the top ending locations. We added a filter to select the gender and type of user, and using these filters it can be concluded that the bicycles are used the most by men. It can be seen that customers (possibly tourists) use the CitiBike service mostly in Central Park and near the Hudson River while subscribers while subscribers use it near the Empire State Building, Union Square and some subway stationsFrom these images it can be concluded that the analysis supports the hypothesis that subscribers use it mostly to go to work or school and that explains the short periods of use of the bikes.
 
 ## Summary
 
@@ -71,4 +69,6 @@ qwerty
 | --- | --- |
 | <img src="/Resources/img15.png"> | <img src="/Resources/img16.png"> | 
 
-qwerty
+As can be seen in the graph above, the CitiBikes service is used mostly by young adults between the ages of 23 and 33. We found it interesting to highlight that the records in the database that have an unknown gender are mostly clients who were born in 1969; Observing that this represents 8% of the total number of people who used the service, it would be interesting to investigate if the data entered by customers is reviewed.
+
+
