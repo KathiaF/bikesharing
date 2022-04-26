@@ -36,12 +36,30 @@ https://public.tableau.com/app/profile/kathia.flores/viz/CitiBike_Challege-D2/NC
 #### Report
 | Viz | Analysis |
 | --- | --- |
-| <img src="/Resources/img9.png"> | qwery |
-| <img src="/Resources/img14.png"> | qwery | 
+| <img src="/Resources/img9.png"> | This graph shows the number of customers who use the bicycles and how long they use them. It can be seen that the service is used mostly by men and that most rentals of the bikes are for short periods of time. For reasons of future research, it is possible to select the gender and type of user |
 
 | Viz | Analysis |
 | --- | --- |
 | <img src="/Resources/img12.png"> | <img src="/Resources/img13.png"> | 
+
+These graphs break down bike usage by day and hour. The darker colors represent higher usage and the lighter colors lower usage. It can be seen that the hours that bikes are used the most are when people is traveling to work at 8am and from work at 5 pm. A filter by type of user was added, which allows us to observe that subscribers use bikes mostly on workdays, while customers use bikes on weekends (perhaps because they are probably tourists). 
+
+
+| Viz | Analysis |
+| --- | --- |
+| <img src="/Resources/img14.png"> | This graph breaks down bike usage by gender, weekday and hour. The darker colors represent higher usage and the lighter colors lower usage. It can also be seen from this graph that bikes are mostly used by men, however, regardless of gender, subscribers use the CitiBike service possibly to get to and from work. | 
+
+From these graphs it can be concluded that the best time to perform maintenance on bicycles is during the early hours of the morning (2am - 4am). 
+
+| Viz | Analysis |
+| --- | --- |
+| <img src="/Resources/img12.png"> | <img src="/Resources/img13.png"> | 
+
+| Viz | Analysis |
+| --- | --- |
+| <img src="/Resources/img10.png"> | <img src="/Resources/img11.png"> | 
+
+qwerty
 
 ## Summary
 
@@ -49,11 +67,6 @@ https://public.tableau.com/app/profile/kathia.flores/viz/CitiBike_Challege-D2/NC
 | --- | --- |
 | <img src="/Resources/img8.png"> | In these graph it can be seen that the majority of users are men and have a subscription service. Perhaps it would be convenient to apply a survey and see if women consider that riding a bike is not good in terms of safety or if it is because sometimes they wear clothes that are not suitable for riding a bike. | 
 
-| Viz | Analysis |
-| --- | --- |
-| <img src="/Resources/img10.png"> | <img src="/Resources/img11.png"> | 
-
-qwerty
 
 | Viz | Analysis |
 | --- | --- |
