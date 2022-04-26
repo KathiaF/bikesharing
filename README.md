@@ -71,4 +71,8 @@ A map of New York City is shown in these visualizations and shows us the top sta
 
 As can be seen in the graph above, the CitiBikes service is used mostly by young adults between the ages of 23 and 33. We found it interesting to highlight that the records in the database that have an unknown gender are mostly clients who were born in 1969; Observing that this represents 8% of the total number of people who used the service, it would be interesting to investigate if the data entered by customers is reviewed.
 
+- From the analysis of these visualizations, it can be observed that in New York City, the bicycle rental service is used mostly by young male adults, and they use the bicycles for short periods of time, possibly to go to work.
 
+- Clients who do not have a subscription to the bicycle rental service use the bikes mostly on weekends and in tourist places, for which it can be concluded that they are tourists.
+
+- It could be a good business opportunity, since there is no similar service in Des Moines, however, I would recommend applying surveys to women to see what they think of having a bike sharing service. I would also review the tourist areas of the city and the forms of transportation used by tourists.
